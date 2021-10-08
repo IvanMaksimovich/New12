@@ -1,5 +1,34 @@
-# Object file
-*.o
 
-# Ada Library Information
-*.ali
+# Создано https://www.toptal.com/developers/gitignore/api/osx
+# Редактировать на https://www.toptal.com/developers/gitignore?templates=osx
+
+### OSX ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Значок должен заканчиваться двумя \r
+Икона
+
+
+# Миниатюры
+._*
+
+# Файлы, которые могут отображаться в корне тома
+.Обзор документов-V100
+.fseventsd
+.Spotlight-V100
+.Временные элементы
+.Мусор
+.Объем. icns
+.com.apple.временная машина.донор присутствует
+
+# Каталоги, потенциально созданные на удаленной общей папке AFP
+.AppleDB
+.AppleDesktop
+Папка Сетевой корзины
+Временные предметы
+.
+
+# Конец https://www.toptal.com/developers/gitignore/api/osx
